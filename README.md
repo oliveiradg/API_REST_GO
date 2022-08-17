@@ -1,0 +1,2 @@
+# API_REST_GO
+Neste treinamento, venci algumas barreiras e aprofundei ainda mais meus conhecimentos com a linguagem Go.    Desenvolvemos uma API Rest do zero, criando rotas, endpoints, modelos e conectamos a aplicação com um banco de dados Postgres por meio do Docker.     Usamos um módulo de ORM e roteador para tornar a aplicação mais escalável, o CRUD completo de um recurso e para fechar com chave de ouro, integramos o back-end Go com um front-end React, configurando o Cors.
